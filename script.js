@@ -8,5 +8,3 @@ setInterval(() => {
   minutes.textContent = happyNewYear.total.minutes;
   seconds.textContent = happyNewYear.total.seconds;
 }, 1000);
-
-spank.textContent = "a";
